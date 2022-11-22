@@ -1,4 +1,4 @@
-; Cade Campbell Brayden Sommerfield Brayden Payne       Mon Nov  7 15:02:52 2022
+; Cade Campbell, Brayden Sommerfield, Brayden Payne       Mon Nov  7 15:02:52 2022
 %INCLUDE "Along32.inc"
 %INCLUDE "Macros_Along.inc"
 
